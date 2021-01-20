@@ -55,21 +55,21 @@
 |  new_cell  |  New cell phone user  ||
 |  crclscod  |  Credit class code  ||
 |  asl_flag  |  Account spending limit  ||
-|  totcalls  |  Total number of calls over the life of the customer  ||
-|  totmou  |  Total minutes of use over the life of the customer  ||
+|  totcalls  |  Total number of calls over the life of the customer  |顧客の合計通話回数|
+|  totmou  |  Total minutes of use over the life of the customer  |顧客の合計使用回数|
 |  totrev  |  Total revenue  |合計収益|
-|  adjrev  |  Billing adjusted total revenue over the life of the customer  ||
-|  adjmou  |  Billing adjusted total minutes of use over the life of the customer  ||
-|  adjqty  |  Billing adjusted total number of calls over the life of the customer  ||
-|  avgrev  |  Average monthly revenue over the life of the customer  ||
-|  avgmou  |  Average monthly minutes of use over the life of the customer  ||
-|  avgqty  |  Average monthly number of calls over the life of the customer  ||
-|  avg3mou  |  Average monthly minutes of use over the previous three months  ||
-|  avg3qty  |  Average monthly number of calls over the previous three months  ||
-|  avg3rev  |  Average monthly revenue over the previous three months  ||
-|  avg6mou  |  Average monthly minutes of use over the previous six months  ||
-|  avg6qty  |  Average monthly number of calls over the previous six months  ||
-|  avg6rev  |  Average monthly revenue over the previous six months  ||
+|  adjrev  |  Billing adjusted total revenue over the life of the customer  |顧客の合計収益(調整済み請求)|
+|  adjmou  |  Billing adjusted total minutes of use over the life of the customer  |顧客の合計分数(調整済み請求)|
+|  adjqty  |  Billing adjusted total number of calls over the life of the customer  |顧客の合計電話回数(調整済み請求)|
+|  avgrev  |  Average monthly revenue over the life of the customer  |顧客の平均の月間収益|
+|  avgmou  |  Average monthly minutes of use over the life of the customer  |顧客の平均の月間使用分数|
+|  avgqty  |  Average monthly number of calls over the life of the customer  |顧客の平均の電話回数|
+|  avg3mou  |  Average monthly minutes of use over the previous three months  |顧客の平均の月間使用分数(過去3ヶ月)|
+|  avg3qty  |  Average monthly number of calls over the previous three months  |顧客の平均の月間電話回数(過去3ヶ月)|
+|  avg3rev  |  Average monthly revenue over the previous three months  |顧客の平均の月間収益(過去3ヶ月)|
+|  avg6mou  |  Average monthly minutes of use over the previous six months  |顧客の平均の月間使用分数(過去6ヶ月)|
+|  avg6qty  |  Average monthly number of calls over the previous six months  |顧客の平均の月間電話回数(過去6ヶ月)|
+|  avg6rev  |  Average monthly revenue over the previous six months  |顧客の平均の月間収益(過去6ヶ月)|
 |  prizm_social_one  |  Social group letter only  ||
 |  area  |  Geogrpahic area  |地理的な地域|
 |  dualband  |  Dualband  |デュアルバンド|
