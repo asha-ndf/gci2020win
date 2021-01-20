@@ -92,11 +92,11 @@
 |  dwllsize  |  Dwelling size  ||
 |  forgntvl  |  Foreign travel dummy variable  ||
 |  ethnic  |  Ethnicity roll-up code  ||
-|  kid0_2  |  Child 0 - 2 years of age in household  |家庭内の0～2歳の人数|
-|  kid3_5  |  Child 3 - 5 years of age in household  |家庭内の3～5歳の人数|
-|  kid6_10  |  Child 6 - 10 years of age in household  |家庭内の6～10歳の人数|
-|  kid11_15  |  Child 11 - 15 years of age in household  |家庭内の11～15歳の人数|
-|  kid16_17  |  Child 16 - 17 years of age in household  |家庭内の16～17歳の人数|
+|  kid0_2  |  Child 0 - 2 years of age in household  |家庭内の0～2歳|
+|  kid3_5  |  Child 3 - 5 years of age in household  |家庭内の3～5歳|
+|  kid6_10  |  Child 6 - 10 years of age in household  |家庭内の6～10歳|
+|  kid11_15  |  Child 11 - 15 years of age in household  |家庭内の11～15歳|
+|  kid16_17  |  Child 16 - 17 years of age in household  |家庭内の16～17歳|
 |  creditcd  |  Credit card indicator  |クレジットカード指標|
 |  eqpdays  |  Number of days (age) of current equipment  ||
 |  Customer_ID  |  NaN  ||
