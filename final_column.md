@@ -15,12 +15,12 @@
 |  drop_dat_Mean  |  Mean number of dropped (failed) data calls  |データ通話の平均失敗数|
 |  blck_vce_Mean  |  Mean number of blocked (failed) voice calls  |音声通話の平均ブロック数|
 |  blck_dat_Mean  |  Mean number of blocked (failed) data calls  |データ通話の平均ブロック数|
-|  unan_vce_Mean  |  Mean number of unanswered voice calls  ||
-|  unan_dat_Mean  |  Mean number of unanswered data calls  ||
-|  plcd_vce_Mean  |  Mean number of attempted voice calls placed  ||
-|  plcd_dat_Mean  |  Mean number of attempted data calls placed  ||
-|  recv_vce_Mean  |  Mean number of received voice calls  ||
-|  recv_sms_Mean  |  NaN  ||
+|  unan_vce_Mean  |  Mean number of unanswered voice calls  |音声通話の平均不答数|
+|  unan_dat_Mean  |  Mean number of unanswered data calls  |データ通話の平均不答数|
+|  plcd_vce_Mean  |  Mean number of attempted voice calls placed  |音声通話の平均未遂数|
+|  plcd_dat_Mean  |  Mean number of attempted data calls placed  |データ通話の平均未遂数|
+|  recv_vce_Mean  |  Mean number of received voice calls  |音声通話の平均受信数|
+|  recv_sms_Mean  |  NaN  |SMSの平均受信数|
 |  comp_vce_Mean  |  Mean number of completed voice calls  |音声通話の平均成功数|
 |  comp_dat_Mean  |  Mean number of completed data calls  |データ通話の平均成功数|
 |  custcare_Mean  |  Mean number of customer care calls  |平均顧客ケア電話数|
